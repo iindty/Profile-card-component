@@ -32,7 +32,7 @@ body {
 
 .top-background {
     position: absolute;
-    background: url(/assets/images/bg-pattern-top.svg);
+    background: url(./assets/images/bg-pattern-top.svg);
     background-size: contain;
     background-repeat: no-repeat;
     width: 130%;
@@ -44,7 +44,7 @@ body {
 
 .bottom-background {
     position: absolute;
-    background: url(/assets/images/bg-pattern-bottom.svg);
+    background: url(./assets/images/bg-pattern-bottom.svg);
     background-size: contain;
     background-repeat: no-repeat;
     width: 130%;
